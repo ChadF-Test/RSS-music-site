@@ -1,3 +1,243 @@
-[
-  
-]
+{
+  "feeds": [
+    {
+      "id": "https-serve-podhome-fm-rss-6c047b0d-3d30-4eb7-894c-82fdd40d7e33",
+      "originalUrl": "https://serve.podhome.fm/rss/6c047b0d-3d30-4eb7-894c-82fdd40d7e33",
+      "type": "album",
+      "title": "Feed from serve.podhome.fm",
+      "priority": "core",
+      "status": "active",
+      "addedAt": "2025-11-27T17:02:19.752Z",
+      "lastUpdated": "2025-11-27T17:02:19.752Z",
+      "source": "manual"
+    },
+    {
+      "id": "https-ableandthewolf-com-static-media-feed-xml",
+      "originalUrl": "https://ableandthewolf.com/static/media/feed.xml",
+      "type": "album",
+      "title": "Feed from ableandthewolf.com",
+      "priority": "core",
+      "status": "active",
+      "addedAt": "2025-11-27T17:02:19.752Z",
+      "lastUpdated": "2025-11-27T17:02:19.752Z",
+      "source": "manual"
+    },
+    {
+      "id": "https-www-doerfelverse-com-feeds-doerfels-pubfeed-xml",
+      "originalUrl": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "type": "publisher",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "core",
+      "status": "active",
+      "addedAt": "2025-11-27T17:02:19.752Z",
+      "lastUpdated": "2025-11-27T17:02:22.933Z",
+      "source": "manual"
+    },
+    {
+      "id": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+      "originalUrl": "https://www.doerfelverse.com/feeds/music-from-the-doerfelverse.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.220Z",
+      "lastUpdated": "2025-11-27T17:02:23.220Z"
+    },
+    {
+      "id": "514d7a21-041e-5e5f-b7d6-71aa7c7584db",
+      "originalUrl": "https://www.sirtjthewrathful.com/wp-content/uploads/2023/08/Dont-Forget-Me.xml",
+      "type": "album",
+      "title": "Feed from www.sirtjthewrathful.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.221Z",
+      "lastUpdated": "2025-11-27T17:02:23.221Z"
+    },
+    {
+      "id": "f7d933c8-032a-52e5-9598-e34d833a3e8e",
+      "originalUrl": "https://www.doerfelverse.com/feeds/they-dont-know.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.225Z",
+      "lastUpdated": "2025-11-27T17:02:23.225Z"
+    },
+    {
+      "id": "de196d3e-276d-5b5f-aa30-34d747e5f6a7",
+      "originalUrl": "https://www.doerfelverse.com/feeds/disco-swag.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.225Z",
+      "lastUpdated": "2025-11-27T17:02:23.225Z"
+    },
+    {
+      "id": "4ab3741a-4a10-5631-a026-a9d0eb62fe11",
+      "originalUrl": "https://www.doerfelverse.com/feeds/your-chance.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.225Z",
+      "lastUpdated": "2025-11-27T17:02:23.225Z"
+    },
+    {
+      "id": "af99d1b4-e10e-503f-8321-8d748bdc76f8",
+      "originalUrl": "https://www.doerfelverse.com/feeds/think-ep.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.225Z",
+      "lastUpdated": "2025-11-27T17:02:23.225Z"
+    },
+    {
+      "id": "d4608e6e-024c-5482-befc-7bee3753167d",
+      "originalUrl": "https://www.doerfelverse.com/feeds/dead-time-live-2016.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.225Z",
+      "lastUpdated": "2025-11-27T17:02:23.225Z"
+    },
+    {
+      "id": "d0301653-1667-5a06-82b6-f4f15b0ed33d",
+      "originalUrl": "https://www.sirtjthewrathful.com/media/figured-you-out-single.xml",
+      "type": "album",
+      "title": "Feed from www.sirtjthewrathful.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "c2095619-a9d0-5e7c-80e1-59e520ce55d3",
+      "originalUrl": "https://www.doerfelverse.com/feeds/underwater-single.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "d13eab76-a4c4-5e4b-a0fb-25ed1386bc51",
+      "originalUrl": "https://www.doerfelverse.com/feeds/possible.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "8443bcf4-2266-5e29-81fb-8912e846968c",
+      "originalUrl": "https://www.sirtjthewrathful.com/media/3years.xml",
+      "type": "album",
+      "title": "Feed from www.sirtjthewrathful.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "bba99401-378c-5540-bf95-c456b3d4de26",
+      "originalUrl": "https://www.sirtjthewrathful.com/wp-content/uploads/2023/08/So-Far-Away.xml",
+      "type": "album",
+      "title": "Feed from www.sirtjthewrathful.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "3d929593-c368-5a59-aefd-50ec8d788874",
+      "originalUrl": "https://doerfelverse.com/feeds/come-back-to-me.xml",
+      "type": "album",
+      "title": "Feed from doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "e2d6766a-5c28-5cbd-b678-4d7595646e4e",
+      "originalUrl": "https://www.doerfelverse.com/feeds/heartbreak.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.226Z",
+      "lastUpdated": "2025-11-27T17:02:23.226Z"
+    },
+    {
+      "id": "68c2dcdc-d955-5a37-8ac1-7a9d18631878",
+      "originalUrl": "https://sirtjthewrathful.com/tracks/thoughtitwasreal.xml",
+      "type": "album",
+      "title": "Feed from sirtjthewrathful.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.227Z",
+      "lastUpdated": "2025-11-27T17:02:23.227Z"
+    },
+    {
+      "id": "94c8a0bf-f76e-5f8c-ba1d-c0c15a642271",
+      "originalUrl": "https://www.doerfelverse.com/feeds/phatty-the-grasshopper.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.227Z",
+      "lastUpdated": "2025-11-27T17:02:23.227Z"
+    },
+    {
+      "id": "a1077af6-602b-5daf-957b-68a65a03cad1",
+      "originalUrl": "https://www.doerfelverse.com/feeds/bloodshot-lies-album.xml",
+      "type": "album",
+      "title": "Feed from www.doerfelverse.com",
+      "priority": "extended",
+      "status": "active",
+      "source": "recursive",
+      "discoveredFrom": "https://www.doerfelverse.com/feeds/doerfels-pubfeed.xml",
+      "addedAt": "2025-11-27T17:02:23.227Z",
+      "lastUpdated": "2025-11-27T17:02:23.227Z"
+    }
+  ],
+  "lastUpdated": "2025-11-27T17:02:23.227Z",
+  "version": 1
+}

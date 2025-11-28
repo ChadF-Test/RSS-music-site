@@ -1,3 +1,799 @@
 {
-  "albums": []
+  "albums": [
+    {
+      "title": "The Trusted - New2Demu",
+      "artist": "The Trusted",
+      "colors": {
+        "dominant": "rgb(152, 152, 152)",
+        "palette": {
+          "primary": "hsl(0, 0%, 60%)",
+          "secondary": "hsl(0, 0%, 70%)",
+          "accent": "hsl(30, 0%, 60%)",
+          "background": "linear-gradient(135deg, \n    hsl(0, 0%, 20%) 0%, \n    hsl(0, 0%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      },
+      "tracks": [
+        {
+          "title": "Levitate",
+          "image": "https://assets.podhome.fm/048aea8e-476d-4dd2-675c-08ddd589f1dd/638963654358478086The%20Trusted_Levitate_artwork.jpg",
+          "colors": {
+            "dominant": "rgb(172, 122, 5)",
+            "palette": {
+              "primary": "hsl(42, 94%, 35%)",
+              "secondary": "hsl(42, 74%, 45%)",
+              "accent": "hsl(72, 94%, 35%)",
+              "background": "linear-gradient(135deg, \n    hsl(42, 94%, 0%) 0%, \n    hsl(42, 64%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Self Destruct LIVE - BBC2 with Jo Whiley",
+          "image": "https://assets.podhome.fm/048aea8e-476d-4dd2-675c-08ddd589f1dd/638932244262805012Trusted%20Album%20Covers%20-%20Self%20Destruct%20Live%20BBC2%20With%20Jo%20Whiley%20%281%29.jpg",
+          "colors": {
+            "dominant": "rgb(91, 7, 7)",
+            "palette": {
+              "primary": "hsl(0, 86%, 19%)",
+              "secondary": "hsl(0, 66%, 29%)",
+              "accent": "hsl(30, 86%, 19%)",
+              "background": "linear-gradient(135deg, \n    hsl(0, 86%, 0%) 0%, \n    hsl(0, 56%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Yellowhammer",
+          "image": "https://assets.podhome.fm/048aea8e-476d-4dd2-675c-08ddd589f1dd/638901932788725053Trusted%20Album%20Covers%20-%20Yellowhammer%2023.jpg",
+          "colors": {
+            "dominant": "rgb(240, 242, 4)",
+            "palette": {
+              "primary": "hsl(61, 97%, 48%)",
+              "secondary": "hsl(61, 77%, 58%)",
+              "accent": "hsl(91, 97%, 48%)",
+              "background": "linear-gradient(135deg, \n    hsl(61, 97%, 8%) 0%, \n    hsl(61, 67%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": false
+          }
+        }
+      ],
+      "coverArt": "https://assets.podhome.fm/048aea8e-476d-4dd2-675c-08ddd589f1dd/638902280597104665Trusted%20Album%20Covers%20-%20Artboard%206%20%281%29.jpg"
+    },
+    {
+      "title": "Stay Awhile",
+      "artist": "Able and The Wolf",
+      "colors": {
+        "dominant": "rgb(236, 133, 30)",
+        "palette": {
+          "primary": "hsl(30, 84%, 52%)",
+          "secondary": "hsl(30, 64%, 62%)",
+          "accent": "hsl(60, 84%, 52%)",
+          "background": "linear-gradient(135deg, \n    hsl(30, 84%, 12%) 0%, \n    hsl(30, 54%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      },
+      "tracks": [
+        {
+          "title": "Willow Brown (ft. Scream Mail)",
+          "image": "https://ableandthewolf.com/static/media/02_WillowBrown.366ef47ccafa17a29dc6.jpg",
+          "colors": {
+            "dominant": "rgb(50, 44, 37)",
+            "palette": {
+              "primary": "hsl(32, 15%, 17%)",
+              "secondary": "hsl(32, 0%, 27%)",
+              "accent": "hsl(62, 15%, 17%)",
+              "background": "linear-gradient(135deg, \n    hsl(32, 15%, 0%) 0%, \n    hsl(32, 0%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Like Wine",
+          "image": "https://ableandthewolf.com/static/media/03_LikeWine.174194a9839d720098aa.jpg",
+          "colors": {
+            "dominant": "rgb(83, 34, 86)",
+            "palette": {
+              "primary": "hsl(297, 43%, 24%)",
+              "secondary": "hsl(297, 23%, 34%)",
+              "accent": "hsl(327, 43%, 24%)",
+              "background": "linear-gradient(135deg, \n    hsl(297, 43%, 0%) 0%, \n    hsl(297, 13%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Stay Awhile",
+          "image": "https://ableandthewolf.com/static/media/04_StayAwhile.dfbfd4a349471a817e3a.jpg",
+          "colors": {
+            "dominant": "rgb(213, 188, 94)",
+            "palette": {
+              "primary": "hsl(47, 59%, 60%)",
+              "secondary": "hsl(47, 39%, 70%)",
+              "accent": "hsl(77, 59%, 60%)",
+              "background": "linear-gradient(135deg, \n    hsl(47, 59%, 20%) 0%, \n    hsl(47, 29%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Maps of Home",
+          "image": "https://ableandthewolf.com/static/media/05_MapsOfHome.90eaac78cbe34f1e5330.jpg",
+          "colors": {
+            "dominant": "rgb(55, 107, 109)",
+            "palette": {
+              "primary": "hsl(182, 33%, 32%)",
+              "secondary": "hsl(182, 13%, 42%)",
+              "accent": "hsl(212, 33%, 32%)",
+              "background": "linear-gradient(135deg, \n    hsl(182, 33%, 0%) 0%, \n    hsl(182, 3%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "One Christmas",
+          "image": "https://ableandthewolf.com/static/media/06_OneChristmas.f40e65fc41110ebca3d0.jpg",
+          "colors": {
+            "dominant": "rgb(102, 71, 32)",
+            "palette": {
+              "primary": "hsl(33, 52%, 26%)",
+              "secondary": "hsl(33, 32%, 36%)",
+              "accent": "hsl(63, 52%, 26%)",
+              "background": "linear-gradient(135deg, \n    hsl(33, 52%, 0%) 0%, \n    hsl(33, 22%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Stay Awhile (reprise)",
+          "image": "https://ableandthewolf.com/static/media/07_StayAwhileReprise.8266f3dafb9ed8bb4a7b.jpg",
+          "colors": {
+            "dominant": "rgb(174, 163, 156)",
+            "palette": {
+              "primary": "hsl(23, 10%, 65%)",
+              "secondary": "hsl(23, 0%, 75%)",
+              "accent": "hsl(53, 10%, 65%)",
+              "background": "linear-gradient(135deg, \n    hsl(23, 10%, 25%) 0%, \n    hsl(23, 0%, 5%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        }
+      ],
+      "coverArt": "https://ableandthewolf.com/static/media/01_MakinBeans.6dfb9c8e18b0f28adf4d.jpg"
+    },
+    {
+      "title": "Bloodshot Lies - Single",
+      "artist": "The Doerfels",
+      "colors": {
+        "dominant": "rgb(215, 49, 79)",
+        "palette": {
+          "primary": "hsl(349, 67%, 52%)",
+          "secondary": "hsl(349, 47%, 62%)",
+          "accent": "hsl(19, 67%, 52%)",
+          "background": "linear-gradient(135deg, \n    hsl(349, 67%, 12%) 0%, \n    hsl(349, 37%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": true
+      },
+      "coverArt": "https://www.doerfelverse.com/art/bloodshot-lies.png"
+    },
+    {
+      "title": "The Doerfels",
+      "artist": "The Doerfels",
+      "colors": {
+        "dominant": "rgb(196, 178, 158)",
+        "palette": {
+          "primary": "hsl(32, 24%, 69%)",
+          "secondary": "hsl(32, 4%, 79%)",
+          "accent": "hsl(62, 24%, 69%)",
+          "background": "linear-gradient(135deg, \n    hsl(32, 24%, 29%) 0%, \n    hsl(32, 0%, 9%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "Music From The Doerfel-Verse",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/carol-of-the-bells.png",
+      "colors": {
+        "dominant": "rgb(35, 46, 63)",
+        "palette": {
+          "primary": "hsl(216, 29%, 19%)",
+          "secondary": "hsl(216, 9%, 29%)",
+          "accent": "hsl(246, 29%, 19%)",
+          "background": "linear-gradient(135deg, \n    hsl(216, 29%, 0%) 0%, \n    hsl(216, 0%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      },
+      "tracks": [
+        {
+          "title": "Long As You're Loving Me",
+          "image": "https://www.doerfelverse.com/art/long-as-youre-loving-me.png",
+          "colors": {
+            "dominant": "rgb(70, 122, 146)",
+            "palette": {
+              "primary": "hsl(199, 35%, 42%)",
+              "secondary": "hsl(199, 15%, 52%)",
+              "accent": "hsl(229, 35%, 42%)",
+              "background": "linear-gradient(135deg, \n    hsl(199, 35%, 2%) 0%, \n    hsl(199, 5%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "What Love Is",
+          "image": "https://www.doerfelverse.com/art/what-love-is.png",
+          "colors": {
+            "dominant": "rgb(210, 183, 145)",
+            "palette": {
+              "primary": "hsl(35, 42%, 70%)",
+              "secondary": "hsl(35, 22%, 80%)",
+              "accent": "hsl(65, 42%, 70%)",
+              "background": "linear-gradient(135deg, \n    hsl(35, 42%, 30%) 0%, \n    hsl(35, 12%, 10%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Now I Know",
+          "image": "https://www.doerfelverse.com/art/now-i-know.png",
+          "colors": {
+            "dominant": "rgb(8, 181, 211)",
+            "palette": {
+              "primary": "hsl(189, 93%, 43%)",
+              "secondary": "hsl(189, 73%, 53%)",
+              "accent": "hsl(219, 93%, 43%)",
+              "background": "linear-gradient(135deg, \n    hsl(189, 93%, 3%) 0%, \n    hsl(189, 63%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Make It",
+          "image": "https://www.doerfelverse.com/art/make-it.png",
+          "colors": {
+            "dominant": "rgb(171, 99, 98)",
+            "palette": {
+              "primary": "hsl(1, 30%, 53%)",
+              "secondary": "hsl(1, 10%, 63%)",
+              "accent": "hsl(31, 30%, 53%)",
+              "background": "linear-gradient(135deg, \n    hsl(1, 30%, 13%) 0%, \n    hsl(1, 0%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Disco Swag",
+          "image": "https://www.doerfelverse.com/art/disco-swag.jpeg",
+          "colors": {
+            "dominant": "rgb(215, 202, 172)",
+            "palette": {
+              "primary": "hsl(42, 35%, 76%)",
+              "secondary": "hsl(42, 15%, 86%)",
+              "accent": "hsl(72, 35%, 76%)",
+              "background": "linear-gradient(135deg, \n    hsl(42, 35%, 36%) 0%, \n    hsl(42, 5%, 16%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Underwater",
+          "image": "https://www.doerfelverse.com/art/underwater.jpg",
+          "colors": {
+            "dominant": "rgb(42, 114, 158)",
+            "palette": {
+              "primary": "hsl(203, 58%, 39%)",
+              "secondary": "hsl(203, 38%, 49%)",
+              "accent": "hsl(233, 58%, 39%)",
+              "background": "linear-gradient(135deg, \n    hsl(203, 58%, 0%) 0%, \n    hsl(203, 28%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Possible",
+          "image": "https://www.doerfelverse.com/art/possible.jpeg",
+          "colors": {
+            "dominant": "rgb(37, 80, 87)",
+            "palette": {
+              "primary": "hsl(188, 40%, 24%)",
+              "secondary": "hsl(188, 20%, 34%)",
+              "accent": "hsl(218, 40%, 24%)",
+              "background": "linear-gradient(135deg, \n    hsl(188, 40%, 0%) 0%, \n    hsl(188, 10%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Diamonds",
+          "image": "https://www.doerfelverse.com/art/think-ep.png",
+          "colors": {
+            "dominant": "rgb(53, 157, 209)",
+            "palette": {
+              "primary": "hsl(200, 63%, 51%)",
+              "secondary": "hsl(200, 43%, 61%)",
+              "accent": "hsl(230, 63%, 51%)",
+              "background": "linear-gradient(135deg, \n    hsl(200, 63%, 11%) 0%, \n    hsl(200, 33%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Days Gone By",
+          "image": "https://www.doerfelverse.com/art/think-ep.png",
+          "colors": {
+            "dominant": "rgb(41, 149, 203)",
+            "palette": {
+              "primary": "hsl(200, 66%, 48%)",
+              "secondary": "hsl(200, 46%, 58%)",
+              "accent": "hsl(230, 66%, 48%)",
+              "background": "linear-gradient(135deg, \n    hsl(200, 66%, 8%) 0%, \n    hsl(200, 36%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Don't Forget Me",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/dont-forget-me-art.jpg",
+      "colors": {
+        "dominant": "rgb(252, 237, 149)",
+        "palette": {
+          "primary": "hsl(51, 94%, 79%)",
+          "secondary": "hsl(51, 74%, 89%)",
+          "accent": "hsl(81, 94%, 79%)",
+          "background": "linear-gradient(135deg, \n    hsl(51, 94%, 39%) 0%, \n    hsl(51, 64%, 19%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "They Don't Know",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/theydontknowart.png",
+      "colors": {
+        "dominant": "rgb(165, 174, 202)",
+        "palette": {
+          "primary": "hsl(225, 26%, 72%)",
+          "secondary": "hsl(225, 6%, 82%)",
+          "accent": "hsl(255, 26%, 72%)",
+          "background": "linear-gradient(135deg, \n    hsl(225, 26%, 32%) 0%, \n    hsl(225, 0%, 12%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "Disco Swag",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/disco-swag.png",
+      "colors": {
+        "dominant": "rgb(219, 208, 179)",
+        "palette": {
+          "primary": "hsl(44, 36%, 78%)",
+          "secondary": "hsl(44, 16%, 88%)",
+          "accent": "hsl(74, 36%, 78%)",
+          "background": "linear-gradient(135deg, \n    hsl(44, 36%, 38%) 0%, \n    hsl(44, 6%, 18%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "Your Chance",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/your-chance.png",
+      "colors": {
+        "dominant": "rgb(184, 193, 204)",
+        "palette": {
+          "primary": "hsl(213, 16%, 76%)",
+          "secondary": "hsl(213, 0%, 86%)",
+          "accent": "hsl(243, 16%, 76%)",
+          "background": "linear-gradient(135deg, \n    hsl(213, 16%, 36%) 0%, \n    hsl(213, 0%, 16%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      },
+      "tracks": [
+        {
+          "title": "Love Like Yours",
+          "image": "https://www.doerfelverse.com/art/love-like-yours.png",
+          "colors": {
+            "dominant": "rgb(209, 197, 161)",
+            "palette": {
+              "primary": "hsl(45, 34%, 73%)",
+              "secondary": "hsl(45, 14%, 83%)",
+              "accent": "hsl(75, 34%, 73%)",
+              "background": "linear-gradient(135deg, \n    hsl(45, 34%, 33%) 0%, \n    hsl(45, 4%, 13%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "They Don't Know",
+          "image": "https://www.doerfelverse.com/art/theydontknowart.png",
+          "colors": {
+            "dominant": "rgb(156, 165, 191)",
+            "palette": {
+              "primary": "hsl(225, 21%, 68%)",
+              "secondary": "hsl(225, 1%, 78%)",
+              "accent": "hsl(255, 21%, 68%)",
+              "background": "linear-gradient(135deg, \n    hsl(225, 21%, 28%) 0%, \n    hsl(225, 0%, 8%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Worth Fighting For",
+          "image": "https://www.doerfelverse.com/art/worth-fighting-for.png",
+          "colors": {
+            "dominant": "rgb(216, 62, 78)",
+            "palette": {
+              "primary": "hsl(354, 66%, 55%)",
+              "secondary": "hsl(354, 46%, 65%)",
+              "accent": "hsl(24, 66%, 55%)",
+              "background": "linear-gradient(135deg, \n    hsl(354, 66%, 15%) 0%, \n    hsl(354, 36%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Think EP",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/think-ep.png",
+      "colors": {
+        "dominant": "rgb(48, 153, 206)",
+        "palette": {
+          "primary": "hsl(200, 62%, 50%)",
+          "secondary": "hsl(200, 42%, 60%)",
+          "accent": "hsl(230, 62%, 50%)",
+          "background": "linear-gradient(135deg, \n    hsl(200, 62%, 10%) 0%, \n    hsl(200, 32%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Dead Time(live 2016)",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/dead-time-live-2016.png",
+      "colors": {
+        "dominant": "rgb(142, 115, 103)",
+        "palette": {
+          "primary": "hsl(18, 16%, 48%)",
+          "secondary": "hsl(18, 0%, 58%)",
+          "accent": "hsl(48, 16%, 48%)",
+          "background": "linear-gradient(135deg, \n    hsl(18, 16%, 8%) 0%, \n    hsl(18, 0%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Figured You Out - Single",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/figured-you-out.png",
+      "colors": {
+        "dominant": "rgb(59, 136, 187)",
+        "palette": {
+          "primary": "hsl(204, 52%, 48%)",
+          "secondary": "hsl(204, 32%, 58%)",
+          "accent": "hsl(234, 52%, 48%)",
+          "background": "linear-gradient(135deg, \n    hsl(204, 52%, 8%) 0%, \n    hsl(204, 22%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Underwater - Single",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/underwater.jpg",
+      "colors": {
+        "dominant": "rgb(48, 223, 228)",
+        "palette": {
+          "primary": "hsl(182, 77%, 54%)",
+          "secondary": "hsl(182, 57%, 64%)",
+          "accent": "hsl(212, 77%, 54%)",
+          "background": "linear-gradient(135deg, \n    hsl(182, 77%, 14%) 0%, \n    hsl(182, 47%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "Possible",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/possible.jpeg",
+      "colors": {
+        "dominant": "rgb(25, 44, 55)",
+        "palette": {
+          "primary": "hsl(202, 38%, 16%)",
+          "secondary": "hsl(202, 18%, 26%)",
+          "accent": "hsl(232, 38%, 16%)",
+          "background": "linear-gradient(135deg, \n    hsl(202, 38%, 0%) 0%, \n    hsl(202, 8%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "3 Years",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.sirtjthewrathful.com/media/3yearsart.jpg",
+      "colors": {
+        "dominant": "rgb(214, 162, 91)",
+        "palette": {
+          "primary": "hsl(35, 60%, 60%)",
+          "secondary": "hsl(35, 40%, 70%)",
+          "accent": "hsl(65, 60%, 60%)",
+          "background": "linear-gradient(135deg, \n    hsl(35, 60%, 20%) 0%, \n    hsl(35, 30%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "So Far Away",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.sirtjthewrathful.com/wp-content/uploads/2023/08/So-Far-Away_artwork-scaled.jpg",
+      "colors": {
+        "dominant": "rgb(40, 64, 87)",
+        "palette": {
+          "primary": "hsl(209, 37%, 25%)",
+          "secondary": "hsl(209, 17%, 35%)",
+          "accent": "hsl(239, 37%, 25%)",
+          "background": "linear-gradient(135deg, \n    hsl(209, 37%, 0%) 0%, \n    hsl(209, 7%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Come Back To Me",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/come-back-to-me-art.jpeg",
+      "colors": {
+        "dominant": "rgb(39, 32, 25)",
+        "palette": {
+          "primary": "hsl(30, 22%, 13%)",
+          "secondary": "hsl(30, 2%, 23%)",
+          "accent": "hsl(60, 22%, 13%)",
+          "background": "linear-gradient(135deg, \n    hsl(30, 22%, 0%) 0%, \n    hsl(30, 0%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Heartbreak",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/heartbreakart.jpg",
+      "colors": {
+        "dominant": "rgb(25, 16, 38)",
+        "palette": {
+          "primary": "hsl(265, 41%, 11%)",
+          "secondary": "hsl(265, 21%, 21%)",
+          "accent": "hsl(295, 41%, 11%)",
+          "background": "linear-gradient(135deg, \n    hsl(265, 41%, 0%) 0%, \n    hsl(265, 11%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Thought it was Real",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.sirtjthewrathful.com/art/thoughtitwasrealart.jpg",
+      "colors": {
+        "dominant": "rgb(174, 96, 57)",
+        "palette": {
+          "primary": "hsl(20, 51%, 45%)",
+          "secondary": "hsl(20, 31%, 55%)",
+          "accent": "hsl(50, 51%, 45%)",
+          "background": "linear-gradient(135deg, \n    hsl(20, 51%, 5%) 0%, \n    hsl(20, 21%, 0%) 100%)",
+          "text": "#ffffff"
+        },
+        "isDark": true
+      }
+    },
+    {
+      "title": "Phatty The Grasshopper",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/phatty-the-grasshopper.png",
+      "colors": {
+        "dominant": "rgb(212, 125, 96)",
+        "palette": {
+          "primary": "hsl(15, 57%, 60%)",
+          "secondary": "hsl(15, 37%, 70%)",
+          "accent": "hsl(45, 57%, 60%)",
+          "background": "linear-gradient(135deg, \n    hsl(15, 57%, 20%) 0%, \n    hsl(15, 27%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": false
+      }
+    },
+    {
+      "title": "Bloodshot Lies - The Album",
+      "artist": "The Doerfels",
+      "coverArt": "https://www.doerfelverse.com/art/bloodshot-lies-the-album.png",
+      "colors": {
+        "dominant": "rgb(213, 46, 76)",
+        "palette": {
+          "primary": "hsl(349, 67%, 51%)",
+          "secondary": "hsl(349, 47%, 61%)",
+          "accent": "hsl(19, 67%, 51%)",
+          "background": "linear-gradient(135deg, \n    hsl(349, 67%, 11%) 0%, \n    hsl(349, 37%, 0%) 100%)",
+          "text": "#000000"
+        },
+        "isDark": true
+      },
+      "tracks": [
+        {
+          "title": "Movie (album version)",
+          "image": "https://www.doerfelverse.com/art/movie.png",
+          "colors": {
+            "dominant": "rgb(216, 214, 202)",
+            "palette": {
+              "primary": "hsl(51, 15%, 82%)",
+              "secondary": "hsl(51, 0%, 92%)",
+              "accent": "hsl(81, 15%, 82%)",
+              "background": "linear-gradient(135deg, \n    hsl(51, 15%, 42%) 0%, \n    hsl(51, 0%, 22%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Heartbreak (album version)",
+          "image": "https://www.doerfelverse.com/art/heartbreak.png",
+          "colors": {
+            "dominant": "rgb(44, 32, 70)",
+            "palette": {
+              "primary": "hsl(259, 37%, 20%)",
+              "secondary": "hsl(259, 17%, 30%)",
+              "accent": "hsl(289, 37%, 20%)",
+              "background": "linear-gradient(135deg, \n    hsl(259, 37%, 0%) 0%, \n    hsl(259, 7%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "Still A Man (album version)",
+          "image": "https://www.doerfelverse.com/art/still-a-man.png",
+          "colors": {
+            "dominant": "rgb(219, 206, 198)",
+            "palette": {
+              "primary": "hsl(23, 23%, 82%)",
+              "secondary": "hsl(23, 3%, 92%)",
+              "accent": "hsl(53, 23%, 82%)",
+              "background": "linear-gradient(135deg, \n    hsl(23, 23%, 42%) 0%, \n    hsl(23, 0%, 22%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "So Far Away (album version)",
+          "image": "https://www.doerfelverse.com/art/so-far-away.png",
+          "colors": {
+            "dominant": "rgb(192, 197, 165)",
+            "palette": {
+              "primary": "hsl(69, 22%, 71%)",
+              "secondary": "hsl(69, 2%, 81%)",
+              "accent": "hsl(99, 22%, 71%)",
+              "background": "linear-gradient(135deg, \n    hsl(69, 22%, 31%) 0%, \n    hsl(69, 0%, 11%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Thought It Was Real (album version)",
+          "image": "https://www.doerfelverse.com/art/thought-it-was-real.png",
+          "colors": {
+            "dominant": "rgb(166, 137, 121)",
+            "palette": {
+              "primary": "hsl(21, 20%, 56%)",
+              "secondary": "hsl(21, 0%, 66%)",
+              "accent": "hsl(51, 20%, 56%)",
+              "background": "linear-gradient(135deg, \n    hsl(21, 20%, 16%) 0%, \n    hsl(21, 0%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Breakaway (album version)",
+          "image": "https://www.doerfelverse.com/art/breakaway.png",
+          "colors": {
+            "dominant": "rgb(151, 137, 200)",
+            "palette": {
+              "primary": "hsl(253, 36%, 66%)",
+              "secondary": "hsl(253, 16%, 76%)",
+              "accent": "hsl(283, 36%, 66%)",
+              "background": "linear-gradient(135deg, \n    hsl(253, 36%, 26%) 0%, \n    hsl(253, 6%, 6%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "some1likeyou",
+          "image": "https://www.doerfelverse.com/art/some1likeyou.png",
+          "colors": {
+            "dominant": "rgb(219, 209, 205)",
+            "palette": {
+              "primary": "hsl(17, 16%, 83%)",
+              "secondary": "hsl(17, 0%, 93%)",
+              "accent": "hsl(47, 16%, 83%)",
+              "background": "linear-gradient(135deg, \n    hsl(17, 16%, 43%) 0%, \n    hsl(17, 0%, 23%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        },
+        {
+          "title": "Maybe It's You (album version)",
+          "image": "https://www.doerfelverse.com/art/maybe-its-you-art.jpg",
+          "colors": {
+            "dominant": "rgb(199, 51, 106)",
+            "palette": {
+              "primary": "hsl(338, 59%, 49%)",
+              "secondary": "hsl(338, 39%, 59%)",
+              "accent": "hsl(8, 59%, 49%)",
+              "background": "linear-gradient(135deg, \n    hsl(338, 59%, 9%) 0%, \n    hsl(338, 29%, 0%) 100%)",
+              "text": "#ffffff"
+            },
+            "isDark": true
+          }
+        },
+        {
+          "title": "3 Years (album version)",
+          "image": "https://www.doerfelverse.com/art/3-years.png",
+          "colors": {
+            "dominant": "rgb(215, 161, 89)",
+            "palette": {
+              "primary": "hsl(34, 61%, 60%)",
+              "secondary": "hsl(34, 41%, 70%)",
+              "accent": "hsl(64, 61%, 60%)",
+              "background": "linear-gradient(135deg, \n    hsl(34, 61%, 20%) 0%, \n    hsl(34, 31%, 0%) 100%)",
+              "text": "#000000"
+            },
+            "isDark": false
+          }
+        }
+      ]
+    }
+  ]
 }
